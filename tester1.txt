@@ -1,0 +1,6 @@
+public class Test1{
+@Test
+public void Tc(){
+System.out.println("test pass1")
+}
+}
